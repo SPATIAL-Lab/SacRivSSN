@@ -1,0 +1,736 @@
+"Sample_ID","NAT_LOC","Sample_type","WaterYear","Site_name","River","Watershed","Lat_dd","Long_dd","Source","Sr8786","SD"
+"10","FEH","otolith_juvenile",2002,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.706937108,NA
+"119","MOH","otolith_juvenile",2002,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.707322386,NA
+"142","CNH","otolith_juvenile",2000,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.705323684,NA
+"143","CNH","otolith_juvenile",2000,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.705376123,NA
+"144","MOH","otolith_juvenile",2002,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.707470607,NA
+"146","MOH","otolith_juvenile",2002,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.707362706,NA
+"150","CNH","otolith_juvenile",2000,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.705064516,NA
+"17","FEH","otolith_juvenile",2002,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.707064229,NA
+"18","FEH","otolith_juvenile",2002,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.707194262,NA
+"191","CNH","otolith_juvenile",2000,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.705406532,NA
+"20602","YUB","otolith_juvenile",2002,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.708218942,NA
+"213","MEH","otolith_juvenile",2002,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.70859515,NA
+"216","MEH","otolith_juvenile",2002,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.70863376,NA
+"217","MEH","otolith_juvenile",2002,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.708596784,NA
+"221","CNH","otolith_juvenile",2000,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.706146679,NA
+"230","MEH","otolith_juvenile",2002,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.708602075,NA
+"268","STA","otolith_juvenile",2002,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.706573478,NA
+"269","STA","otolith_juvenile",2002,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.706640946,NA
+"270","STA","otolith_juvenile",2002,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.706610902,NA
+"277","STA","otolith_juvenile",2002,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.706631251,NA
+"286","MOH","otolith_juvenile",2002,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.707636023,NA
+"309","STA","otolith_juvenile",2002,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.706416733,NA
+"319","FEA","otolith_juvenile",2002,"Feather River","Feather River","Feather River",39.485643,-121.578279,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.706179819,NA
+"320","FEA","otolith_juvenile",2002,"Feather River","Feather River","Feather River",39.485643,-121.578279,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.706101144,NA
+"322","FEA","otolith_juvenile",2002,"Feather River","Feather River","Feather River",39.485643,-121.578279,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.706160773,NA
+"323","FEA","otolith_juvenile",2002,"Feather River","Feather River","Feather River",39.485643,-121.578279,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.706119019,NA
+"330","FEA","otolith_juvenile",2002,"Feather River","Feather River","Feather River",39.485643,-121.578279,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.706115968,NA
+"332","FEA","otolith_juvenile",2002,"Feather River","Feather River","Feather River",39.485643,-121.578279,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.706180228,NA
+"333","FEA","otolith_juvenile",2002,"Feather River","Feather River","Feather River",39.485643,-121.578279,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.706174431,NA
+"384","YUB","otolith_juvenile",2002,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.708118565,NA
+"388","YUB","otolith_juvenile",2002,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.708418359,NA
+"389","YUB","otolith_juvenile",2002,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.708133618,NA
+"468","NIH","otolith_juvenile",2002,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.709788278,NA
+"485","NIH","otolith_juvenile",2002,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.709713331,NA
+"5","FEH","otolith_juvenile",2002,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.707034725,NA
+"8","FEH","otolith_juvenile",2002,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.707036606,NA
+"9","FEH","otolith_juvenile",2002,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.70679727,NA
+"AL040814-1","CNH","otolith_juvenile",2014,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705505278,NA
+"AL040814-2","CNH","otolith_juvenile",2014,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.70620751,NA
+"AL040814-3","CNH","otolith_juvenile",2014,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705740644,NA
+"AL041514-1","CNH","otolith_juvenile",2014,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.706098363,NA
+"AL041514-2","CNH","otolith_juvenile",2014,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.7058859475,NA
+"AR18001","AME","otolith_juvenile",2018,"American River","American River","American River",38.637822,-121.25476,"This study",0.709516179166383,NA
+"AR18002","AME","otolith_juvenile",2018,"American River","American River","American River",38.637822,-121.25476,"This study",0.709447090807284,NA
+"AR18003","AME","otolith_juvenile",2018,"American River","American River","American River",38.637822,-121.25476,"This study",0.709646500795859,NA
+"AR18006","AME","otolith_juvenile",2018,"American River","American River","American River",38.637822,-121.25476,"This study",0.709521618027895,NA
+"AR18007","AME","otolith_juvenile",2018,"American River","American River","American River",38.637822,-121.25476,"This study",0.709502549415997,NA
+"AR18009","AME","otolith_juvenile",2018,"American River","American River","American River",38.637822,-121.25476,"This study",0.709566679318231,NA
+"AR18010","AME","otolith_juvenile",2018,"American River","American River","American River",38.637822,-121.25476,"This study",0.709623840061449,NA
+"AR18011","AME","otolith_juvenile",2018,"American River","American River","American River",38.637822,-121.25476,"This study",0.709733441954505,NA
+"AR18012","AME","otolith_juvenile",2018,"American River","American River","American River",38.637822,-121.25476,"This study",0.709500535796612,NA
+"AR18013","AME","otolith_juvenile",2018,"American River","American River","American River",38.637822,-121.25476,"This study",0.709937478685941,NA
+"AR18014","AME","otolith_juvenile",2018,"American River","American River","American River",38.637822,-121.25476,"This study",0.7095617769116,NA
+"AR99220","AME","otolith_juvenile",1999,"American River","American River","American River",38.637822,-121.25476,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.710213562,NA
+"AR99223","AME","otolith_juvenile",1999,"American River","American River","American River",38.637822,-121.25476,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.710121019,NA
+"AR99226","AME","otolith_juvenile",1999,"American River","American River","American River",38.637822,-121.25476,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.710236033,NA
+"AR99227","AME","otolith_juvenile",1999,"American River","American River","American River",38.637822,-121.25476,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.709776357,NA
+"AR99228","AME","otolith_juvenile",1999,"American River","American River","American River",38.637822,-121.25476,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.710106741,NA
+"BUT18002","BUT","otolith_juvenile",2018,"Butte Creek","Butte Creek","Lassen Tributaries",39.41964,-121.88109,"This study",0.704634645520763,NA
+"BUT18003","BUT","otolith_juvenile",2018,"Butte Creek","Butte Creek","Lassen Tributaries",39.41964,-121.88109,"This study",0.704848955525478,NA
+"BUT18006","BUT","otolith_juvenile",2018,"Butte Creek","Butte Creek","Lassen Tributaries",39.41964,-121.88109,"This study",0.704972114550422,NA
+"BUT18007","BUT","otolith_juvenile",2018,"Butte Creek","Butte Creek","Lassen Tributaries",39.41964,-121.88109,"This study",0.704683233734278,NA
+"BUT18008","BUT","otolith_juvenile",2018,"Butte Creek","Butte Creek","Lassen Tributaries",39.41964,-121.88109,"This study",0.704967911053962,NA
+"BUT18009","BUT","otolith_juvenile",2018,"Butte Creek","Butte Creek","Lassen Tributaries",39.41964,-121.88109,"This study",0.704848340258992,NA
+"BUT18010","BUT","otolith_juvenile",2018,"Butte Creek","Butte Creek","Lassen Tributaries",39.41964,-121.88109,"This study",0.705296380706004,NA
+"BUT18011","BUT","otolith_juvenile",2018,"Butte Creek","Butte Creek","Lassen Tributaries",39.41964,-121.88109,"This study",0.704909924772538,NA
+"BUT18012","BUT","otolith_juvenile",2018,"Butte Creek","Butte Creek","Lassen Tributaries",39.41964,-121.88109,"This study",0.705048805039684,NA
+"BUT18013","BUT","otolith_juvenile",2018,"Butte Creek","Butte Creek","Lassen Tributaries",39.41964,-121.88109,"This study",0.7047557232641,NA
+"CNH00154","CNH","otolith_juvenile",2000,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.7051872815,NA
+"CNH00165","CNH","otolith_juvenile",2000,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.705454337,NA
+"CNH00185","CNH","otolith_juvenile",2000,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.705390461,NA
+"CNH00265","CNH","otolith_juvenile",2000,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.70520396,NA
+"CNH00275","CNH","otolith_juvenile",2000,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.705190085,NA
+"CNH16001","CNH","otolith_juvenile",2016,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.706220814457434,NA
+"CNH16006","CNH","otolith_juvenile",2016,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705286931139779,NA
+"CNH16012","CNH","otolith_juvenile",2016,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705437861808032,NA
+"CNH16014","CNH","otolith_juvenile",2016,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705355089814321,NA
+"CNH16018","CNH","otolith_juvenile",2016,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705159645125614,NA
+"CNH2015-2","CNH","otolith_juvenile",2015,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705422516,NA
+"CNH2015-4","CNH","otolith_juvenile",2015,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.7053524015,NA
+"CNH2015-5","CNH","otolith_juvenile",2015,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.706096323,NA
+"CNH2015-6","CNH","otolith_juvenile",2015,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705822384,NA
+"CNH2015-7","CNH","otolith_juvenile",2015,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705828942,NA
+"CWT03028","MEH","otolith_cwt",1998,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708802037,NA
+"CWT04284","MEH","otolith_cwt",1998,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7085426815,NA
+"CWT04288","MEH","otolith_cwt",1998,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708767571,NA
+"CWT04380","MEH","otolith_cwt",1998,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7087157805,NA
+"CWT04407","MOH","otolith_cwt",1998,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707442205,NA
+"CWT04478","MOH","otolith_cwt",1998,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707422302,NA
+"CWT04531","CNH","otolith_cwt",2000,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.7056516865,NA
+"CWT10996","MEH","otolith_cwt",1999,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7088553695,NA
+"CWT11135","MEH","otolith_cwt",1999,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7087740075,NA
+"CWT11152","MEH","otolith_cwt",1999,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708821085,NA
+"CWT11233","MEH","otolith_cwt",1998,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708692873,NA
+"CWT13692","MOH","otolith_cwt",2001,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707516774,NA
+"CWT14037","CNH","otolith_cwt",2014,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705988857901511,NA
+"CWT14038","CNH","otolith_cwt",2014,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.706058987081375,NA
+"CWT14039","FEH","otolith_cwt",2014,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.706640585879109,NA
+"CWT14040","CNH","otolith_cwt",2014,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705548770183395,NA
+"CWT14041","CNH","otolith_cwt",2014,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705912791332874,NA
+"CWT14042","CNH","otolith_cwt",2014,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.706031501421805,NA
+"CWT14675","MEH","otolith_cwt",1999,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7089267025,NA
+"CWT14818","MEH","otolith_cwt",2001,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708569631,NA
+"CWT14882","MEH","otolith_cwt",2001,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708473431,NA
+"CWT15030","MEH","otolith_cwt",2015,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708252587876407,NA
+"CWT15031","FEH","otolith_cwt",2015,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707389779630152,NA
+"CWT15032","MEH","otolith_cwt",2015,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7085686984004,NA
+"CWT15033","CNH","otolith_cwt",2015,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705166077053246,NA
+"CWT15034","MEH","otolith_cwt",2015,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708538022386397,NA
+"CWT15036","MEH","otolith_cwt",2015,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708681845879316,NA
+"CWT15037","MEH","otolith_cwt",2015,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708727113663044,NA
+"CWT15038","MEH","otolith_cwt",2015,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708544353164853,NA
+"CWT15219","MOH","otolith_cwt",1999,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.7076750875,NA
+"CWT15765","MEH","otolith_cwt",2001,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7086669505,NA
+"CWT15901","MOH","otolith_cwt",2001,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707632884,NA
+"CWT15992","MOH","otolith_cwt",2001,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707587259,NA
+"CWT16016","MOH","otolith_cwt",2001,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707543008,NA
+"CWT16024","MOH","otolith_cwt",2001,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707559808,NA
+"CWT16095","FEH","otolith_cwt",2016,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707436259691548,NA
+"CWT16096","FEH","otolith_cwt",2016,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707376566313251,NA
+"CWT16100","FEH","otolith_cwt",2016,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.70724535265331,NA
+"CWT16101","FEH","otolith_cwt",2016,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707371585327065,NA
+"CWT16102","FEH","otolith_cwt",2016,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707675127540238,NA
+"CWT16103","NIH","otolith_cwt",2016,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709694675486969,NA
+"CWT16104","NIH","otolith_cwt",2016,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709901167116019,NA
+"CWT16105","NIH","otolith_cwt",2016,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709797423227495,NA
+"CWT16106","MEH","otolith_cwt",2016,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708325938923347,NA
+"CWT16107","FEH","otolith_cwt",2016,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707297847431476,NA
+"CWT16110","FEH","otolith_cwt",2016,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.70749692380904,NA
+"CWT16111","NIH","otolith_cwt",2016,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709939662433013,NA
+"CWT16112","MEH","otolith_cwt",2016,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.70850309781354,NA
+"CWT16113","MEH","otolith_cwt",2016,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708578429041664,NA
+"CWT16114","MEH","otolith_cwt",2016,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708575364750513,NA
+"CWT16117","FEH","otolith_cwt",2016,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707630467937379,NA
+"CWT16118","FEH","otolith_cwt",2016,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707517722923242,NA
+"CWT16119","MEH","otolith_cwt",2016,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.70851777650639,NA
+"CWT16121","CNH","otolith_cwt",2016,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705579777357713,NA
+"CWT16127","FEH","otolith_cwt",2016,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707304749766001,NA
+"CWT16129","FEH","otolith_cwt",2016,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707017563941437,NA
+"CWT16130","CNH","otolith_cwt",2016,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705762347634721,NA
+"CWT16131","FEH","otolith_cwt",2016,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.70703033377554,NA
+"CWT16132","CNH","otolith_cwt",2016,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705587731501742,NA
+"CWT16133","CNH","otolith_cwt",2016,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705553566472419,NA
+"CWT16292","MEH","otolith_cwt",2001,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708549126,NA
+"CWT16316","MEH","otolith_cwt",2001,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708654515,NA
+"CWT16335","MEH","otolith_cwt",2001,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7085332125,NA
+"CWT16660","MEH","otolith_cwt",2004,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708519318,NA
+"CWT17001","CNH","otolith_cwt",2017,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705712819772114,NA
+"CWT17002","CNH","otolith_cwt",2017,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705756654818761,NA
+"CWT17003","CNH","otolith_cwt",2017,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.706094317441349,NA
+"CWT17005","FEH","otolith_cwt",2017,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.706665680292489,NA
+"CWT17008","NIH","otolith_cwt",2017,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709827792168132,NA
+"CWT17009","NIH","otolith_cwt",2017,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709794065309226,NA
+"CWT17010","MOH","otolith_cwt",2017,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707906133485734,NA
+"CWT17049","MOH","otolith_cwt",2001,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707312147,NA
+"CWT17201","MOH","otolith_cwt",2001,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707577214,NA
+"CWT17250","MEH","otolith_cwt",2003,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7087533635,NA
+"CWT17282","MEH","otolith_cwt",2003,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7086140875,NA
+"CWT17293","MEH","otolith_cwt",2003,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708797452,NA
+"CWT17614","MEH","otolith_cwt",2003,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7086866065,NA
+"CWT17620","MEH","otolith_cwt",2003,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7086857375,NA
+"CWT17626","MEH","otolith_cwt",2003,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7089593715,NA
+"CWT18004","MEH","otolith_cwt",2018,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708591635366469,NA
+"CWT18006","MOH","otolith_cwt",2018,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707306419289845,NA
+"CWT18008","CNH","otolith_cwt",2018,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705735446913629,NA
+"CWT18009","CNH","otolith_cwt",2018,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705979031816801,NA
+"CWT18010","FEH","otolith_cwt",2018,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707084544782019,NA
+"CWT18011","FEH","otolith_cwt",2018,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.70711827717331,NA
+"CWT18012","FEH","otolith_cwt",2018,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707063289433468,NA
+"CWT18013","CNH","otolith_cwt",2018,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.705263410064525,NA
+"CWT18014","NIH","otolith_cwt",2018,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709584641092638,NA
+"CWT18015","NIH","otolith_cwt",2018,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709846107968881,NA
+"CWT18016","NIH","otolith_cwt",2018,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709793619243306,NA
+"CWT18017","NIH","otolith_cwt",2018,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709578216133846,NA
+"CWT18018","FEH","otolith_cwt",2018,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707184094677387,NA
+"CWT18127","MEH","otolith_cwt",2004,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7087746555,NA
+"CWT19180","MEH","otolith_cwt",2006,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.70886081,NA
+"CWT19181","MOH","otolith_cwt",2007,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.7074599755,NA
+"CWT19233","MEH","otolith_cwt",2006,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.709008987,NA
+"CWT19259","MEH","otolith_cwt",2006,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7088423545,NA
+"CWT19294","MEH","otolith_cwt",2006,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7088348805,NA
+"CWT19310","MEH","otolith_cwt",2006,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708884063,NA
+"CWT19478","MOH","otolith_cwt",2007,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707276244,NA
+"CWT19507","MOH","otolith_cwt",2007,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.7074460775,NA
+"CWT19524","MOH","otolith_cwt",2007,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707414128,NA
+"CWT19531","MOH","otolith_cwt",2007,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707303929,NA
+"CWT19539","MOH","otolith_cwt",2007,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.7075656675,NA
+"CWT19541","MOH","otolith_cwt",2007,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.7072813525,NA
+"CWT19543","MOH","otolith_cwt",2007,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707139882,NA
+"CWT19811","MEH","otolith_cwt",1999,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7089813335,NA
+"CWT20044","MOH","otolith_cwt",1999,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.7075063995,NA
+"CWT20206","CNH","otolith_cwt",2009,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.7062984175,NA
+"CWT20212","MEH","otolith_cwt",2009,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708744691,NA
+"CWT20223","MEH","otolith_cwt",2009,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708757945,NA
+"CWT20232","MEH","otolith_cwt",2009,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7087196435,NA
+"CWT20244","MEH","otolith_cwt",2009,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708766973,NA
+"CWT20331","CNH","otolith_cwt",2009,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.706554637,NA
+"CWT20333","MOH","otolith_cwt",2009,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707323736,NA
+"CWT20356","CNH","otolith_cwt",2009,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.706023441,NA
+"CWT20401","MOH","otolith_cwt",2008,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707369183,NA
+"CWT20436","MOH","otolith_cwt",2008,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707900055,NA
+"CWT20438","MOH","otolith_cwt",2008,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707800992,NA
+"CWT20457","MOH","otolith_cwt",2008,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.7075220665,NA
+"CWT23106","MOH","otolith_cwt",2008,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707854927,NA
+"CWT23125","CNH","otolith_cwt",2010,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.7063295115,NA
+"CWT23128","MOH","otolith_cwt",2010,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.7073974945,NA
+"CWT23139","MOH","otolith_cwt",2010,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.7072650275,NA
+"CWT23144","MOH","otolith_cwt",2010,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707433597,NA
+"CWT23203","MOH","otolith_cwt",2010,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707161158,NA
+"CWT23224","CNH","otolith_cwt",2010,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.706555334,NA
+"CWT23225","MOH","otolith_cwt",2010,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.7073545665,NA
+"CWT23246","MOH","otolith_cwt",2010,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707263059,NA
+"CWT23247","MOH","otolith_cwt",2010,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.7072252615,NA
+"CWT23258","MOH","otolith_cwt",2008,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.7076048565,NA
+"CWT23289","CNH","otolith_cwt",2009,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.706227003,NA
+"CWT23313","MOH","otolith_cwt",2009,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.7072362405,NA
+"CWT23322","MOH","otolith_cwt",2010,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707254161,NA
+"CWT23352","CNH","otolith_cwt",2009,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.7057004045,NA
+"CWT24041","MEH","otolith_cwt",2009,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7087182905,NA
+"CWT24046","MEH","otolith_cwt",2009,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7087433875,NA
+"CWT24125","CNH","otolith_cwt",2009,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.707018627,NA
+"CWT24151","MEH","otolith_cwt",2010,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708544214,NA
+"CWT24170","MEH","otolith_cwt",2010,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708549239,NA
+"CWT24171","MEH","otolith_cwt",2010,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.70847568,NA
+"CWT24181","MEH","otolith_cwt",2010,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708458739,NA
+"CWT24186","MEH","otolith_cwt",2010,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708537433,NA
+"CWT24187","MEH","otolith_cwt",2010,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708627499,NA
+"CWT24188","CNH","otolith_cwt",2010,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.706841449,NA
+"CWT24978","CNH","otolith_cwt",2009,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"This study",0.706717186,NA
+"FEA031115-2","FEA","otolith_juvenile",2015,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.707256176377768,NA
+"FEA031415-2","FEA","otolith_juvenile",2015,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706417290053921,NA
+"FEA031415-3","FEA","otolith_juvenile",2015,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706247527394923,NA
+"FEA031415-4","FEA","otolith_juvenile",2015,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706308023473087,NA
+"FEA041015-1","FEA","otolith_juvenile",2015,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706663862,NA
+"FEA041015-2","FEA","otolith_juvenile",2015,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706527969,NA
+"FEA042115-1","FEA","otolith_juvenile",2015,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706318397,NA
+"FEA042115-2","FEA","otolith_juvenile",2015,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706387783,NA
+"FEA042115-3","FEA","otolith_juvenile",2015,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706235055,NA
+"FEA042915-1B","FEA","otolith_juvenile",2015,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.70645850220291,NA
+"FEA042915-2","FEA","otolith_juvenile",2015,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706729167393979,NA
+"FEA050715-2","FEA","otolith_juvenile",2015,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706091747490564,NA
+"FEA050814-1","FEA","otolith_juvenile",2014,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706044992,NA
+"FEA050814-2","FEA","otolith_juvenile",2014,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706356057,NA
+"FEA050814-3","FEA","otolith_juvenile",2014,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706258966716137,NA
+"FEA050814-5","FEA","otolith_juvenile",2014,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.707065968686775,NA
+"FEA050814-6","FEA","otolith_juvenile",2014,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706916509287597,NA
+"FEA050814-7","FEA","otolith_juvenile",2014,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706358591088128,NA
+"FEA050914-1","FEA","otolith_juvenile",2014,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.7060195,NA
+"FEA052014-1","FEA","otolith_juvenile",2014,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706400689,NA
+"FEA052014-2","FEA","otolith_juvenile",2014,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706239963,NA
+"FEA16001","FEA","otolith_juvenile",2016,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706168859081294,NA
+"FEA16002","FEA","otolith_juvenile",2016,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706202449002817,NA
+"FEA16003","FEA","otolith_juvenile",2019,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706128373592597,NA
+"FEA18001","FEA","otolith_juvenile",2018,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706648625422914,NA
+"FEA18002","FEA","otolith_juvenile",2018,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706752019770592,NA
+"FEA18004","FEA","otolith_juvenile",2018,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.70610624692944,NA
+"FEA18005","FEA","otolith_juvenile",2018,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706293260699955,NA
+"FEA18006","FEA","otolith_juvenile",2018,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706479830178619,NA
+"FEA19001","FEA","otolith_juvenile",2019,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.70626608468397,NA
+"FEA19002","FEA","otolith_juvenile",2019,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706479799032934,NA
+"FEA19003","FEA","otolith_juvenile",2019,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706221982892677,NA
+"FEA19004","FEA","otolith_juvenile",2019,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.7072014752653,NA
+"FEA19006","FEA","otolith_juvenile",2019,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706568255708819,NA
+"FEA19007","FEA","otolith_juvenile",2019,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.707198830819967,NA
+"FEA19008","FEA","otolith_juvenile",2019,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706478014101453,NA
+"FEA19009","FEA","otolith_juvenile",2019,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.70739474032508,NA
+"FEA19010","FEA","otolith_juvenile",2019,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.707404759407746,NA
+"FEH042114-1","FEH","otolith_juvenile",2014,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.7074038115,NA
+"FEH042114-2","FEH","otolith_juvenile",2014,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707485914,NA
+"FEH042114-3","FEH","otolith_juvenile",2014,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.7076325085,NA
+"FEH042114-4","FEH","otolith_juvenile",2014,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707111681,NA
+"FEH042114-5","FEH","otolith_juvenile",2014,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.7069580205,NA
+"FEH051715-1","FEH","otolith_juvenile",2015,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.7075116705,NA
+"FEH051715-2","FEH","otolith_juvenile",2015,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707398807,NA
+"FEH051715-3","FEH","otolith_juvenile",2015,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707227982,NA
+"FEH051715-4","FEH","otolith_juvenile",2015,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.7073327235,NA
+"FEH051715-5","FEH","otolith_juvenile",2015,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707062537,NA
+"FEH19001","FEH","otolith_juvenile",2019,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707851054017044,NA
+"FEH19002","FEH","otolith_juvenile",2019,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707687352323756,NA
+"FEH19003","FEH","otolith_juvenile",2019,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.706800135284724,NA
+"FEH19004","FEH","otolith_juvenile",2019,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707617989946313,NA
+"FEH19005","FEH","otolith_juvenile",2019,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707349690069776,NA
+"FEH19006","FEH","otolith_juvenile",2019,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707561706574612,NA
+"FEH19007","FEH","otolith_juvenile",2019,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707549929217624,NA
+"FEH19008","FEH","otolith_juvenile",2019,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707812773573791,NA
+"FEH19009","FEH","otolith_juvenile",2019,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707643978888479,NA
+"FEH19010","FEH","otolith_juvenile",2019,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707901777999297,NA
+"FEH19011","FEH","otolith_juvenile",2019,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707390181260679,NA
+"FEH19012","FEH","otolith_juvenile",2019,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.708107272251553,NA
+"FEH19013","FEH","otolith_juvenile",2019,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707454269302296,NA
+"FEH19014","FEH","otolith_juvenile",2019,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.70732583758856,NA
+"FEH19015","FEH","otolith_juvenile",2019,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707623569826622,NA
+"FH00007","FEH","otolith_juvenile",2000,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7076299275,NA
+"FH00010","FEH","otolith_juvenile",2000,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707492397,NA
+"FH00013","FEH","otolith_juvenile",2000,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707692641,NA
+"FH00021","FEH","otolith_juvenile",2000,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707618094,NA
+"FH00029","FEH","otolith_juvenile",2000,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707523002,NA
+"FH20419","FEH","otolith_juvenile",2002,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707644203,NA
+"FH20425","FEH","otolith_juvenile",2002,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7075312445,NA
+"FH20427","FEH","otolith_juvenile",2002,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707669552,NA
+"FH20431","FEH","otolith_juvenile",2002,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7076905145,NA
+"FH20434","FEH","otolith_juvenile",2002,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707522152,NA
+"FH40292","FEH","otolith_juvenile",2004,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7075256965,NA
+"FH40295","FEH","otolith_juvenile",2004,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707316909,NA
+"FH40308","FEH","otolith_juvenile",2004,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7069776405,NA
+"FH40312","FEH","otolith_juvenile",2004,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7068737045,NA
+"FH40321","FEH","otolith_juvenile",2004,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7072096405,NA
+"FH99309","FEH","otolith_juvenile",1999,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706701821,NA
+"FH99312","FEH","otolith_juvenile",1999,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706405612,NA
+"FH99315","FEH","otolith_juvenile",1999,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7063088895,NA
+"FH99319","FEH","otolith_juvenile",1999,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706676189,NA
+"FH99506","FEH","otolith_juvenile",1999,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706711832,NA
+"FR00065","FEA","otolith_juvenile",2000,"Feather River","Feather River","Feather River",39.485643,-121.578279,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.705712413,NA
+"FR00069","FEA","otolith_juvenile",2000,"Feather River","Feather River","Feather River",39.485643,-121.578279,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706091485,NA
+"FR00075","FEA","otolith_juvenile",2000,"Feather River","Feather River","Feather River",39.485643,-121.578279,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706258164,NA
+"FR00090","FEA","otolith_juvenile",2000,"Feather River","Feather River","Feather River",39.485643,-121.578279,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706126299,NA
+"FR00092","FEA","otolith_juvenile",2000,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706506417,NA
+"FR99275","FEA","otolith_juvenile",1999,"Feather River","Feather River","Feather River",39.485643,-121.578279,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706027558,NA
+"FR99276","FEA","otolith_juvenile",1999,"Feather River","Feather River","Feather River",39.485643,-121.578279,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706191999,NA
+"FR99278","FEA","otolith_juvenile",1999,"Feather River","Feather River","Feather River",39.485643,-121.578279,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706629221,NA
+"FR99279","FEA","otolith_juvenile",1999,"Feather River","Feather River","Feather River",39.485643,-121.578279,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706207562,NA
+"FR99281","FEA","otolith_juvenile",1999,"Feather River","Feather River","Feather River",39.485643,-121.578279,"This study",0.706483531,NA
+"LAR041916-CS01","AME","otolith_juvenile",2016,"American River","American River","American River",38.637822,-121.25476,"This study",0.710339602683053,NA
+"LAR041916-CS16","AME","otolith_juvenile",2016,"American River","American River","American River",38.637822,-121.25476,"This study",0.709940969244666,NA
+"LAR041916-CS17","AME","otolith_juvenile",2016,"American River","American River","American River",38.637822,-121.25476,"This study",0.709754165366161,NA
+"LAR042116-CS09","AME","otolith_juvenile",2016,"American River","American River","American River",38.637822,-121.25476,"This study",0.709908290719986,NA
+"LAR042116-CS11","AME","otolith_juvenile",2016,"American River","American River","American River",38.637822,-121.25476,"This study",0.710119828348294,NA
+"LAR042116-CS14","AME","otolith_juvenile",2016,"American River","American River","American River",38.637822,-121.25476,"This study",0.710164999066023,NA
+"LAR050316-CS02","AME","otolith_juvenile",2016,"American River","American River","American River",38.637822,-121.25476,"This study",0.710075130288405,NA
+"LAR050516-CS04","AME","otolith_juvenile",2016,"American River","American River","American River",38.637822,-121.25476,"This study",0.709608660573238,NA
+"LAR050516-CS09","AME","otolith_juvenile",2016,"American River","American River","American River",38.637822,-121.25476,"This study",0.709241101768426,NA
+"LNO11","FEH","otolith_juvenile",2002,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.707915231233483,NA
+"LNO12","FEH","otolith_juvenile",2002,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.707804262023429,NA
+"LNO13","FEH","otolith_juvenile",2002,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.707765172466888,NA
+"LNO136","MOH","otolith_juvenile",2002,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.707572253855298,NA
+"LNO14","FEH","otolith_juvenile",2002,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.707417433067393,NA
+"LNO145","MOH","otolith_juvenile",2002,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.707468971416071,NA
+"LNO19","FEH","otolith_juvenile",2002,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.707570532207182,NA
+"LNO193","CNH","otolith_juvenile",2000,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.705532740288096,NA
+"LNO206","MEH","otolith_juvenile",2002,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.708704837335617,NA
+"LNO215","MEH","otolith_juvenile",2002,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.708914236270781,NA
+"LNO218","MEH","otolith_juvenile",2002,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.708661167889825,NA
+"LNO220","MEH","otolith_juvenile",2002,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.708559619212301,NA
+"LNO222","CNH","otolith_juvenile",2000,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.706189160740897,NA
+"LNO232","MEH","otolith_juvenile",2002,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.708836591395713,NA
+"LNO263","STA","otolith_juvenile",2002,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.706725064155588,NA
+"LNO271","STA","otolith_juvenile",2002,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.706410742107363,NA
+"LNO273","STA","otolith_juvenile",2002,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.70655021686257,NA
+"LNO276","STA","otolith_juvenile",2002,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.706522165891548,NA
+"LNO283","CNH","otolith_juvenile",2000,"Coleman National Fish Hatchery","Battle Creek","Lassen Tributaries",40.398198,-122.145263,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.706310645989626,NA
+"LNO30009","MER","otolith_juvenile",2003,"Merced River","Merced River","Merced River",37.514478,-120.441888,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.708550142063117,NA
+"LNO30022","MER","otolith_juvenile",2003,"Merced River","Merced River","Merced River",37.514478,-120.441888,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.708748517695236,NA
+"LNO30023","MER","otolith_juvenile",2003,"Merced River","Merced River","Merced River",37.514478,-120.441888,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.708829051054088,NA
+"LNO318","STA","otolith_juvenile",2002,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.706271787771214,NA
+"LNO386","YUB","otolith_juvenile",2002,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.707949871,NA
+"LNO502","NIH","otolith_juvenile",2002,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.709632054806569,NA
+"LNO505","AME","otolith_juvenile",2002,"American River","American River","American River",38.637822,-121.25476,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.709854360887705,NA
+"LNO99370","BAT","otolith_juvenile",1999,"Battle Creek","Battle Creek","Lassen Tributaries",40.397268,-122.152564,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.704220187265012,NA
+"LNO99371","BAT","otolith_juvenile",1999,"Battle Creek","Battle Creek","Lassen Tributaries",40.397268,-122.152564,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.703805279108244,NA
+"LNO99373","BAT","otolith_juvenile",1999,"Battle Creek","Battle Creek","Lassen Tributaries",40.397268,-122.152564,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.704145359049636,NA
+"LNO99374","BAT","otolith_juvenile",1999,"Battle Creek","Battle Creek","Lassen Tributaries",40.397268,-122.152564,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.704046236676272,NA
+"LNO99375","BAT","otolith_juvenile",1999,"Battle Creek","Battle Creek","Lassen Tributaries",40.397268,-122.152564,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.704951354,NA
+"LNO99379","BAT","otolith_juvenile",1999,"Battle Creek","Battle Creek","Lassen Tributaries",40.397268,-122.152564,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.704127293259469,NA
+"LNO99381","BAT","otolith_juvenile",1999,"Battle Creek","Battle Creek","Lassen Tributaries",40.397268,-122.152564,"Barnett-Johnson et al (2008). Limnology and Oceanography 53(4): 1633-1642.",0.704006844744335,NA
+"MEH042414-1","MEH","otolith_juvenile",2014,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7086286355,NA
+"MEH042414-2","MEH","otolith_juvenile",2014,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708562982,NA
+"MEH042414-4","MEH","otolith_juvenile",2014,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7084177775,NA
+"MEH042414-5","MEH","otolith_juvenile",2014,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7085809385,NA
+"MEH042414-6","MEH","otolith_juvenile",2014,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.7084745415,NA
+"MEH13001","MEH","otolith_juvenile",2013,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.708924853300518,NA
+"MEH13002","MEH","otolith_juvenile",2013,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.709047204853212,NA
+"MEH13003","MEH","otolith_juvenile",2013,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.708853269503535,NA
+"MEH13004","MEH","otolith_juvenile",2013,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.708781428813543,NA
+"MEH13005","MEH","otolith_juvenile",2013,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.708899533099755,NA
+"MEH14001","MEH","otolith_juvenile",2014,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708595560901923,NA
+"MEH14002","MEH","otolith_juvenile",2014,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708689755260795,NA
+"MEH14003","MEH","otolith_juvenile",2014,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708631018257905,NA
+"MEH14004","MEH","otolith_juvenile",2014,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708471148341467,NA
+"MEH14006","MEH","otolith_juvenile",2017,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.708573028816236,NA
+"MEH17001","MEH","otolith_juvenile",2017,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.709003069653346,NA
+"MEH17002","MEH","otolith_juvenile",2017,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.709373177507421,NA
+"MEH17003","MEH","otolith_juvenile",2017,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.709198921768556,NA
+"MEH17004","MEH","otolith_juvenile",2017,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.709303248732877,NA
+"MEH17005","MEH","otolith_juvenile",2017,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"This study",0.709023559374351,NA
+"MH40005","MEH","otolith_juvenile",2004,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7084720075,NA
+"MH40010","MEH","otolith_juvenile",2004,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7086340395,NA
+"MH40043","MEH","otolith_juvenile",2004,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.708689249,NA
+"MH40057","MEH","otolith_juvenile",2004,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.708524536,NA
+"MH40077","MEH","otolith_juvenile",2004,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.708622484,NA
+"MH90102","MEH","otolith_juvenile",1999,"Merced River Fish Hatchery","Merced River","Merced River",37.516122,-120.372589,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.708781432,NA
+"MKR00037","MOK","otolith_juvenile",2000,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707000738,NA
+"MKR00042","MOK","otolith_juvenile",2000,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707013196,NA
+"MKR00059","MOK","otolith_juvenile",2000,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706851965,NA
+"MOH00264","MOH","otolith_juvenile",2000,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7078174065,NA
+"MOH00273","MOH","otolith_juvenile",2000,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707589919,NA
+"MOH00278","MOH","otolith_juvenile",2000,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.70756792,NA
+"MOH00284","MOH","otolith_juvenile",2000,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707558921,NA
+"MOH00292","MOH","otolith_juvenile",2000,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707693913,NA
+"MOH16003","MOH","otolith_juvenile",2016,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707351951862848,NA
+"MOH16009","MOH","otolith_juvenile",2016,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707459105740022,NA
+"MOH16011","MOH","otolith_juvenile",2016,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.70743790098666,NA
+"MOH16012","MOH","otolith_juvenile",2016,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707348581693436,NA
+"MOH16014","MOH","otolith_juvenile",2016,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707383270276028,NA
+"MOH17004","MOH","otolith_juvenile",2017,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707654864802069,NA
+"MOH17007","MOH","otolith_juvenile",2017,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707546383470013,NA
+"MOH17009","MOH","otolith_juvenile",2017,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.70764188599207,NA
+"MOH17014","MOH","otolith_juvenile",2017,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707921430894712,NA
+"MOH17015","MOH","otolith_juvenile",2017,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707597791452707,NA
+"MOH20121","MOH","otolith_juvenile",2002,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707623954,NA
+"MOH20122","MOH","otolith_juvenile",2002,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.70748195,NA
+"MOH20126","MOH","otolith_juvenile",2002,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707693956,NA
+"MOH20131","MOH","otolith_juvenile",2002,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7075524515,NA
+"MOH20132","MOH","otolith_juvenile",2002,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707512951,NA
+"MOH2014-1100","MOH","otolith_juvenile",2014,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707199347,NA
+"MOH2014-1102","MOH","otolith_juvenile",2014,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707256233,NA
+"MOH2014-1106","MOH","otolith_juvenile",2014,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.7072876595,NA
+"MOH2014-1107","MOH","otolith_juvenile",2014,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.7074397445,NA
+"MOH2014-1108","MOH","otolith_juvenile",2014,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707295561,NA
+"MOH2015-001","MOH","otolith_juvenile",2015,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707353239,NA
+"MOH2015-002","MOH","otolith_juvenile",2015,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707290205,NA
+"MOH2015-004","MOH","otolith_juvenile",2015,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707241685,NA
+"MOH2015-008","MOH","otolith_juvenile",2015,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707250837,NA
+"MOH2015-009","MOH","otolith_juvenile",2015,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.7070523975,NA
+"MOH201501","MOH","otolith_juvenile",2015,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707269363588957,NA
+"MOH90201","MOH","otolith_juvenile",1999,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707874154814714,NA
+"MOH99193","MOH","otolith_juvenile",1999,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707629526,NA
+"MOH99195","MOH","otolith_juvenile",1999,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7076620235,NA
+"MOH99196","MOH","otolith_juvenile",1999,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707912003,NA
+"MOH99200","MOH","otolith_juvenile",1999,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7077585155,NA
+"MOK00031","MOK","otolith_juvenile",2000,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707208044,NA
+"MOK16001","MOK","otolith_juvenile",2016,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"This study",0.706823148497282,NA
+"MOK16002","MOK","otolith_juvenile",2016,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"This study",0.7068429208312,NA
+"MOK16005","MOK","otolith_juvenile",2016,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"This study",0.70691449164536,NA
+"MOK16007","MOK","otolith_juvenile",2016,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"This study",0.706955414680866,NA
+"MOK16012","MOK","otolith_juvenile",2016,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"This study",0.707048713581581,NA
+"MOK17003","MOK","otolith_juvenile",2017,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"This study",0.707119483193859,NA
+"MOK17004","MOK","otolith_juvenile",2017,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"This study",0.707146135714024,NA
+"MOK17005","MOK","otolith_juvenile",2017,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"This study",0.707128539188396,NA
+"MOK17006","MOK","otolith_juvenile",2017,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"This study",0.707044856300933,NA
+"MOK17009","MOK","otolith_juvenile",2017,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"This study",0.707249678695632,NA
+"MOK18001","MOK","otolith_juvenile",2018,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"This study",0.706797046968632,NA
+"MOK18002","MOK","otolith_juvenile",2018,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"This study",0.706808744033238,NA
+"MOK18003","MOK","otolith_juvenile",2018,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"This study",0.706801402835916,NA
+"MOK18004","MOK","otolith_juvenile",2018,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"This study",0.706783389560135,NA
+"MOK2014-146","MOK","otolith_juvenile",2014,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"This study",0.706829551,NA
+"MOK2014-149","MOK","otolith_juvenile",2014,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"This study",0.706771122,NA
+"MOK2014-158","MOK","otolith_juvenile",2014,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"This study",0.706827207,NA
+"MOK2015-008","MOK","otolith_juvenile",2015,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"This study",0.7066324835,NA
+"MOK2015-020","MOK","otolith_juvenile",2015,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"This study",0.706714296,NA
+"MOK2015-022","MOK","otolith_juvenile",2015,"Mokelumne River","Mokelumne River","Mokelumne River",38.221051,-121.042848,"This study",0.706707429,NA
+"MR12001","MER","otolith_juvenile",2012,"Merced River","Merced River","Merced River",37.514478,-120.441888,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.708460633552007,NA
+"MR12002","MER","otolith_juvenile",2012,"Merced River","Merced River","Merced River",37.514478,-120.441888,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.708368188747439,NA
+"MR12008","MER","otolith_juvenile",2012,"Merced River","Merced River","Merced River",37.514478,-120.441888,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.70854152665935,NA
+"MR12010","MER","otolith_juvenile",2012,"Merced River","Merced River","Merced River",37.514478,-120.441888,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.708582692444667,NA
+"MR12012","MER","otolith_juvenile",2012,"Merced River","Merced River","Merced River",37.514478,-120.441888,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.708573629222226,NA
+"MR13001","MER","otolith_juvenile",2013,"Merced River","Merced River","Merced River",37.514478,-120.441888,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.708446635769117,NA
+"MR13002","MER","otolith_juvenile",2013,"Merced River","Merced River","Merced River",37.514478,-120.441888,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.708616814374058,NA
+"MR13004","MER","otolith_juvenile",2013,"Merced River","Merced River","Merced River",37.514478,-120.441888,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.708511637323911,NA
+"MR13005","MER","otolith_juvenile",2013,"Merced River","Merced River","Merced River",37.514478,-120.441888,"This study",0.708494625168228,NA
+"MR14001","MER","otolith_juvenile",2014,"Merced River","Merced River","Merced River",37.514478,-120.441888,"This study",0.708591826407121,NA
+"MR14003","MER","otolith_juvenile",2014,"Merced River","Merced River","Merced River",37.514478,-120.441888,"This study",0.708498770795816,NA
+"MR14004","MER","otolith_juvenile",2014,"Merced River","Merced River","Merced River",37.514478,-120.441888,"This study",0.708231336736995,NA
+"MR14006","MER","otolith_juvenile",2014,"Merced River","Merced River","Merced River",37.514478,-120.441888,"This study",0.708085077716333,NA
+"MR14007","MER","otolith_juvenile",2014,"Merced River","Merced River","Merced River",37.514478,-120.441888,"This study",0.708234915645991,NA
+"MR30010","MER","otolith_juvenile",2003,"Merced River","Merced River","Merced River",37.514478,-120.441888,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.708787392,NA
+"MR30016","MER","otolith_juvenile",2003,"Merced River","Merced River","Merced River",37.514478,-120.441888,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.708704812,NA
+"MR30020","MER","otolith_juvenile",2003,"Merced River","Merced River","Merced River",37.514478,-120.441888,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7088404925,NA
+"MR30026","MER","otolith_juvenile",2003,"Merced River","Merced River","Merced River",37.514478,-120.441888,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.708769139,NA
+"MR30028","MER","otolith_juvenile",2003,"Merced River","Merced River","Merced River",37.514478,-120.441888,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.708393971,NA
+"NIH052115-1","NIH","otolith_juvenile",2015,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.7097128215,NA
+"NIH052115-2","NIH","otolith_juvenile",2015,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709756407,NA
+"NIH052115-3","NIH","otolith_juvenile",2015,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709661549,NA
+"NIH052115-4","NIH","otolith_juvenile",2015,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709764428,NA
+"NIH052115-5","NIH","otolith_juvenile",2015,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.7095704705,NA
+"NIH17002","NIH","otolith_juvenile",2017,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709957190913008,NA
+"NIH17005","NIH","otolith_juvenile",2017,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709920615595726,NA
+"NIH17007","NIH","otolith_juvenile",2017,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709803925143181,NA
+"NIH17008","NIH","otolith_juvenile",2017,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.70975495784347,NA
+"NIH17015","NIH","otolith_juvenile",2017,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709929183874644,NA
+"NIH19001","NIH","otolith_juvenile",2019,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709676438448918,NA
+"NIH19002","NIH","otolith_juvenile",2019,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709992088391359,NA
+"NIH19003","NIH","otolith_juvenile",2019,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709749519183289,NA
+"NIH19004","NIH","otolith_juvenile",2019,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709995842590318,NA
+"NIH19005","NIH","otolith_juvenile",2019,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.710101397731228,NA
+"NIH463","NIH","otolith_juvenile",2002,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.7098384775,NA
+"NIH467","NIH","otolith_juvenile",2002,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.7096318455,NA
+"NIH486","NIH","otolith_juvenile",2002,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.7097935915,NA
+"NIH493","NIH","otolith_juvenile",2002,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.7096630305,NA
+"NIH503","NIH","otolith_juvenile",2002,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.709605675,NA
+"NIH57301","MOH","otolith_cwt",2017,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.70749841,NA
+"NIH57302","NIH","otolith_cwt",2017,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.709603989,NA
+"NIH57304","NIH","otolith_cwt",2017,"Nimbus Hatchery","American River","American River",38.635337,-121.226091,"This study",0.7097251005,NA
+"NIH57305","MOH","otolith_cwt",2017,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707527387,NA
+"NIH57317","MOH","otolith_cwt",2017,"Mokelumne River Fish Facility","Mokelumne River","Mokelumne River",38.226497,-121.028054,"This study",0.707599757,NA
+"SAC17001","SAC","otolith_juvenile",2017,"Sacramento River","Sacramento River","Sacramento River",40.705804,-122.442494,"This study",0.706135998519093,NA
+"SAC17002","SAC","otolith_juvenile",2017,"Sacramento River","Sacramento River","Sacramento River",40.705804,-122.442494,"This study",0.705201169522571,NA
+"SAC17003","SAC","otolith_juvenile",2017,"Sacramento River","Sacramento River","Sacramento River",40.705804,-122.442494,"This study",0.705323377538683,NA
+"SAC17005","SAC","otolith_juvenile",2017,"Sacramento River","Sacramento River","Sacramento River",40.705804,-122.442494,"This study",0.70559050671519,NA
+"SAC17006","SAC","otolith_juvenile",2017,"Sacramento River","Sacramento River","Sacramento River",40.705804,-122.442494,"This study",0.70569751546228,NA
+"SAC17007","SAC","otolith_juvenile",2017,"Sacramento River","Sacramento River","Sacramento River",40.705804,-122.442494,"This study",0.706237713844379,NA
+"SAC17008","SAC","otolith_juvenile",2017,"Sacramento River","Sacramento River","Sacramento River",40.705804,-122.442494,"This study",0.705572101527425,NA
+"SAC17009","SAC","otolith_juvenile",2017,"Sacramento River","Sacramento River","Sacramento River",40.705804,-122.442494,"This study",0.705301985652274,NA
+"SAC17010","SAC","otolith_juvenile",2017,"Sacramento River","Sacramento River","Sacramento River",40.705804,-122.442494,"This study",0.705312104322263,NA
+"SAC17011","SAC","otolith_juvenile",2017,"Sacramento River","Sacramento River","Sacramento River",40.705804,-122.442494,"This study",0.705505064567634,NA
+"SAC17012","SAC","otolith_juvenile",2017,"Sacramento River","Sacramento River","Sacramento River",40.705804,-122.442494,"This study",0.705844843050774,NA
+"SAC17013","SAC","otolith_juvenile",2017,"Sacramento River","Sacramento River","Sacramento River",40.705804,-122.442494,"This study",0.705486957319367,NA
+"SAC17014","SAC","otolith_juvenile",2017,"Sacramento River","Sacramento River","Sacramento River",40.705804,-122.442494,"This study",0.7053194417193,NA
+"SAC17015","SAC","otolith_juvenile",2017,"Sacramento River","Sacramento River","Sacramento River",40.705804,-122.442494,"This study",0.706077395904673,NA
+"SJ3.9","SJR","otolith_juvenile",2014,"San Joaquin River","San Joaquin River","San Joaquin River",36.860664,-119.843682,"This study",0.7077483745,NA
+"SJ4.6","SJR","otolith_juvenile",2014,"San Joaquin River","San Joaquin River","San Joaquin River",36.860664,-119.843682,"This study",0.707630986,NA
+"SJ5.7","SJR","otolith_juvenile",2014,"San Joaquin River","San Joaquin River","San Joaquin River",36.860664,-119.843682,"This study",0.7077140025,NA
+"SJ6.6","SJR","otolith_juvenile",2014,"San Joaquin River","San Joaquin River","San Joaquin River",36.860664,-119.843682,"This study",0.707635823,NA
+"SJ7.5","SJR","otolith_juvenile",2014,"San Joaquin River","San Joaquin River","San Joaquin River",36.860664,-119.843682,"This study",0.707778271,NA
+"SR00093","STA","otolith_juvenile",2000,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706511936,NA
+"SR00095","STA","otolith_juvenile",2000,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706405934,NA
+"SR00096","STA","otolith_juvenile",2000,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706237628,NA
+"SR00098","STA","otolith_juvenile",2000,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706339764,NA
+"SR00118","STA","otolith_juvenile",2000,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706530936,NA
+"SR00119","STA","otolith_juvenile",2000,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706548937,NA
+"SR00121","STA","otolith_juvenile",2000,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7065224365,NA
+"SR110001","STA","otolith_juvenile",2011,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706430531,NA
+"SR110003","STA","otolith_juvenile",2011,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706521445,NA
+"SR110004","STA","otolith_juvenile",2011,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706320991,NA
+"SR11001","STA","otolith_juvenile",2011,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706566678652894,NA
+"SR11002","STA","otolith_juvenile",2011,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706323422084098,NA
+"SR11003","STA","otolith_juvenile",2011,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706513515089284,NA
+"SR11005","STA","otolith_juvenile",2011,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706352710244115,NA
+"SR11006","STA","otolith_juvenile",2011,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706402360297293,NA
+"SR120001","STA","otolith_juvenile",2012,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706495147,NA
+"SR120002","STA","otolith_juvenile",2012,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706303239,NA
+"SR120003","STA","otolith_juvenile",2012,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706493618,NA
+"SR120004","STA","otolith_juvenile",2012,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.7064163105,NA
+"SR120013","STA","otolith_juvenile",2012,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706410273,NA
+"SR120014","STA","otolith_juvenile",2012,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706526246,NA
+"SR120015","STA","otolith_juvenile",2012,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.70643215,NA
+"SR120016","STA","otolith_juvenile",2012,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.7065591745,NA
+"SR120018","STA","otolith_juvenile",2012,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706405812,NA
+"SR120019","STA","otolith_juvenile",2012,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706449287,NA
+"SR120020","STA","otolith_juvenile",2012,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706463626,NA
+"SR120021","STA","otolith_juvenile",2012,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706429837,NA
+"SR130009","STA","otolith_juvenile",2013,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.7064015,NA
+"SR130051","STA","otolith_juvenile",2013,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706350518,NA
+"SR130052","STA","otolith_juvenile",2013,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706169332,NA
+"SR130053","STA","otolith_juvenile",2013,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706246248,NA
+"SR130054","STA","otolith_juvenile",2013,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706628395,NA
+"SR130055","STA","otolith_juvenile",2013,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706299706,NA
+"SR130056","STA","otolith_juvenile",2013,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706444095,NA
+"SR130057","STA","otolith_juvenile",2013,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706279788,NA
+"SR130060","STA","otolith_juvenile",2013,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.706450298,NA
+"SR14001","STA","otolith_juvenile",2014,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706312851223647,NA
+"SR14003","STA","otolith_juvenile",2014,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706322526692691,NA
+"SR14005","STA","otolith_juvenile",2014,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706220076000538,NA
+"SR14006","STA","otolith_juvenile",2014,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706161859496413,NA
+"SR14008","STA","otolith_juvenile",2014,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706454112076116,NA
+"SR15001","STA","otolith_juvenile",2015,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706348624039164,NA
+"SR15002","STA","otolith_juvenile",2015,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706158135802559,NA
+"SR15003","STA","otolith_juvenile",2015,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706459419388181,NA
+"SR15004","STA","otolith_juvenile",2015,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706405333296784,NA
+"SR15005","STA","otolith_juvenile",2015,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706127755194112,NA
+"SR16001","STA","otolith_juvenile",2016,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706255304210363,NA
+"SR16002","STA","otolith_juvenile",2016,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706371633218754,NA
+"SR16003","STA","otolith_juvenile",2016,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706281447945378,NA
+"SR16004","STA","otolith_juvenile",2016,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706621161793844,NA
+"SR16005","STA","otolith_juvenile",2016,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706250767041998,NA
+"SR16010","STA","otolith_juvenile",2016,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.707112286511256,NA
+"SR16011","STA","otolith_juvenile",2016,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.707392110639498,NA
+"SR17001","STA","otolith_juvenile",2017,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706397244092471,NA
+"SR17004","STA","otolith_juvenile",2017,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.70619811564792,NA
+"SR18001","STA","otolith_juvenile",2018,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706729562024394,NA
+"SR18002","STA","otolith_juvenile",2018,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706383258514729,NA
+"SR18003","STA","otolith_juvenile",2018,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706303316419285,NA
+"SR18004","STA","otolith_juvenile",2018,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706573949437659,NA
+"SR18005","STA","otolith_juvenile",2018,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706795985178897,NA
+"SR99147","STA","otolith_juvenile",1999,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.70652978,NA
+"SR99149","STA","otolith_juvenile",1999,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706658775,NA
+"SR99150","STA","otolith_juvenile",1999,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706576778,NA
+"SR99151","STA","otolith_juvenile",1999,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706353994,NA
+"SR99152","STA","otolith_juvenile",1999,"Stanislaus River","Stanislaus River","Stanislaus River",37.810022,-120.673784,"This study",0.706650374,NA
+"TH052015-1","THE","otolith_juvenile",2015,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"This study",0.707113276,NA
+"TH052015-2","THE","otolith_juvenile",2015,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"This study",0.707474132,NA
+"TH052015-3","THE","otolith_juvenile",2015,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"This study",0.707292998,NA
+"TH052015-4","THE","otolith_juvenile",2015,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"This study",0.707475343,NA
+"TH052015-5","THE","otolith_juvenile",2015,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"This study",0.70758205,NA
+"TH16040","THE","otolith_juvenile",2016,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"This study",0.706762289326047,NA
+"TH16041","THE","otolith_juvenile",2016,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"This study",0.707281587772231,NA
+"TH16048","THE","otolith_juvenile",2016,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"This study",0.707131319537468,NA
+"TH16050","THE","otolith_juvenile",2016,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"This study",0.707166057493206,NA
+"TH16052","THE","otolith_juvenile",2016,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"This study",0.706866956818397,NA
+"TH40132","THE","otolith_juvenile",2004,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7060252905,NA
+"TH40133","THE","otolith_juvenile",2004,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.705727807,NA
+"TH40135","THE","otolith_juvenile",2004,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706320072,NA
+"TH40136","THE","otolith_juvenile",2004,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7064596945,NA
+"TH40139","THE","otolith_juvenile",2004,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.706457274,NA
+"THE18001","THE","otolith_juvenile",2018,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"This study",0.707164945956379,NA
+"THE18002","THE","otolith_juvenile",2018,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"This study",0.707112052183076,NA
+"THE18003","THE","otolith_juvenile",2018,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"This study",0.707314681403619,NA
+"THE18005","THE","otolith_juvenile",2018,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"This study",0.707627868946535,NA
+"THE18006","THE","otolith_juvenile",2018,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"This study",0.707282726009147,NA
+"THE18007","THE","otolith_juvenile",2017,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"This study",0.707195270069668,NA
+"THE18008","THE","otolith_juvenile",2018,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"This study",0.707352402081053,NA
+"THE18009","THE","otolith_juvenile",2018,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"This study",0.707438999965193,NA
+"THE18010","THE","otolith_juvenile",2018,"Thermalito Forebay","Feather River","Feather River",39.529161,-121.594045,"This study",0.707124682433296,NA
+"TJ07-01","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7076414085,NA
+"TJ07-02","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707962972,NA
+"TJ07-03","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7075192085,NA
+"TJ07-05","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7074682465,NA
+"TJ07-06","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7078378025,NA
+"TJ07-07","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707686034,NA
+"TJ07-08","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707543225,NA
+"TJ07-09","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707512183,NA
+"TJ07-10","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7074309015,NA
+"TJ07-11","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707860792,NA
+"TJ07-12","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7077083625,NA
+"TJ07-13","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707511627,NA
+"TJ07-14","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7072830725,NA
+"TJ07-15","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.708001708,NA
+"TJ07-16","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7076651765,NA
+"TJ07-17","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707098924,NA
+"TJ07-18","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707704252,NA
+"TJ07-19","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707658813,NA
+"TJ07-21","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707724834,NA
+"TJ07-22","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707451037,NA
+"TJ07-23","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7077977575,NA
+"TJ07-24","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707820052,NA
+"TJ07-25","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.70780881,NA
+"TJ07-27","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7076976745,NA
+"TJ07-28","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.708055386,NA
+"TJ07-29","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7074593675,NA
+"TJ07-30","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707443651,NA
+"TJ07-31","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7074270385,NA
+"TJ07-32","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707449505,NA
+"TJ07-62","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7077721715,NA
+"TJ07-63","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707539724,NA
+"TJ10-64","TUO","otolith_juvenile",2010,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7077360085,NA
+"TJ10-65","TUO","otolith_juvenile",2010,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707763236,NA
+"TJ10-66","TUO","otolith_juvenile",2010,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7079439985,NA
+"TJ10-67","TUO","otolith_juvenile",2010,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7077809775,NA
+"TJ10-68","TUO","otolith_juvenile",2010,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707604322,NA
+"TJ10-72","TUO","otolith_juvenile",2010,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707170757,NA
+"TJ10-73","TUO","otolith_juvenile",2010,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707731645,NA
+"TJ10-74","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"This study",0.707396344,NA
+"TJ10-75","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"This study",0.7074051555,NA
+"TJ10-76","TUO","otolith_juvenile",2007,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"This study",0.7072892045,NA
+"TJ11-105","TUO","otolith_juvenile",2011,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.7078984365,NA
+"TJ11-112","TUO","otolith_juvenile",2011,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.7076678775,NA
+"TJ11-113","TUO","otolith_juvenile",2011,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"This study",0.708466674,NA
+"TJ11-80","TUO","otolith_juvenile",2011,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"This study",0.70793373,NA
+"TJ11-82","TUO","otolith_juvenile",2011,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"This study",0.70811195,NA
+"TJ11-84","TUO","otolith_juvenile",2011,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.707692095,NA
+"TJ11-90","TUO","otolith_juvenile",2011,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"This study",0.708010414,NA
+"TJ11-97","TUO","otolith_juvenile",2011,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"This study",0.708197097,NA
+"TJ11-98","TUO","otolith_juvenile",2011,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.707756566,NA
+"TR14004","TUO","otolith_juvenile",2014,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.707811321094865,NA
+"TR14008","TUO","otolith_juvenile",2014,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.707615865526183,NA
+"TR14009","TUO","otolith_juvenile",2014,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.707734927570569,NA
+"TR14010","TUO","otolith_juvenile",2014,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.70744106722567,NA
+"TR14011","TUO","otolith_juvenile",2014,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al. (2020) Global Change Biology 26: 1235– 1247.",0.707735532778974,NA
+"TR16001","TUO","otolith_juvenile",2016,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"This study",0.707618834401247,NA
+"TR16002","TUO","otolith_juvenile",2016,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"This study",0.707668154387161,NA
+"TR16005","TUO","otolith_juvenile",2016,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"This study",0.707867081823646,NA
+"TR16006","TUO","otolith_juvenile",2016,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"This study",0.707793242520077,NA
+"TR16010","TUO","otolith_juvenile",2016,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"This study",0.708086865841161,NA
+"TR18001","TUO","otolith_juvenile",2018,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"This study",0.70777185087336,NA
+"TR18002","TUO","otolith_juvenile",2018,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"This study",0.7077878712744,NA
+"TR18004","TUO","otolith_juvenile",2018,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"This study",0.707926309587854,NA
+"TR18005","TUO","otolith_juvenile",2018,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"This study",0.707651384688744,NA
+"TR18007","TUO","otolith_juvenile",2018,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"This study",0.707089062694749,NA
+"TR18008","TUO","otolith_juvenile",2018,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"This study",0.707848157463716,NA
+"TR18010","TUO","otolith_juvenile",2018,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"This study",0.708025677107923,NA
+"TR30001","TUO","otolith_juvenile",2003,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"This study",0.7079679065,NA
+"TR30002","TUO","otolith_juvenile",2003,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707641426,NA
+"TR30003","TUO","otolith_juvenile",2003,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707651425,NA
+"TR30004","TUO","otolith_juvenile",2003,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707589429,NA
+"TR30005","TUO","otolith_juvenile",2003,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707385441,NA
+"TR30006","TUO","otolith_juvenile",2003,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707441438,NA
+"TR99091","TUO","otolith_juvenile",1999,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707339944,NA
+"TR99093","TUO","otolith_juvenile",1999,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707937408,NA
+"TR99096","TUO","otolith_juvenile",1999,"Tuolumne River","Tuolumne River","Tuolumne River",37.636176,-120.733592,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7081768935,NA
+"YR092209-005","FEH","otolith_cwt",2007,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707468675,NA
+"YR092909-012","FEH","otolith_cwt",2007,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.708012007,NA
+"YR092909-016","FEH","otolith_cwt",2008,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707335643,NA
+"YR092909-022","FEH","otolith_cwt",2008,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707287738,NA
+"YR093009-001","FEH","otolith_cwt",2007,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.7074705645,NA
+"YR093009-016","FEH","otolith_cwt",2007,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707459179,NA
+"YR093009-022","FEH","otolith_cwt",2008,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707507109,NA
+"YR100609-043","FEH","otolith_cwt",2007,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.7074999065,NA
+"YR100709-002","FEH","otolith_cwt",2008,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707651082,NA
+"YR100709-016","FEH","otolith_cwt",2007,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707464457,NA
+"YR100709-023","FEH","otolith_cwt",2007,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707565731,NA
+"YR100709-024","FEH","otolith_cwt",2008,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707378524,NA
+"YR100709-030","FEH","otolith_cwt",2007,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707595437,NA
+"YR100709-041","FEH","otolith_cwt",2007,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707350375,NA
+"YR100929-008","FEH","otolith_cwt",2008,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707631794,NA
+"YR100930-006","FEH","otolith_cwt",2008,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707414739,NA
+"YR101005-038","FEH","otolith_cwt",2008,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.7076895535,NA
+"YR101005-074","FEH","otolith_cwt",2008,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.7074739285,NA
+"YR101005-096","FEH","otolith_cwt",2008,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.7075582735,NA
+"YR101005-097","FEH","otolith_cwt",2007,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.7075130895,NA
+"YR101006-005","FEH","otolith_cwt",2008,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707412612,NA
+"YR101006-035","FEH","otolith_cwt",2008,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707607086,NA
+"YR101006-040","FEH","otolith_cwt",2008,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707410245,NA
+"YR101006-046","FEH","otolith_cwt",2008,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.7076169885,NA
+"YR101013-004","FEH","otolith_cwt",2008,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.708060624,NA
+"YR101013-029","FEH","otolith_cwt",2008,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.70746629,NA
+"YR101014-007","FEH","otolith_cwt",2008,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707503583,NA
+"YR101309-010","FEH","otolith_cwt",2007,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707411509,NA
+"YR101309-515","FEH","otolith_cwt",2008,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707186092,NA
+"YR102109-001","FEH","otolith_cwt",2007,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707120059,NA
+"YR102309-008","FEH","otolith_cwt",2008,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707474487,NA
+"YR102809-007","FEH","otolith_cwt",2007,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707022136,NA
+"YR110409-009","FEH","otolith_cwt",2007,"Feather River Hatchery","Feather River","Feather River",39.517296,-121.55289,"This study",0.707403063,NA
+"YR19001","YUB","otolith_juvenile",2019,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"This study",0.708155678695165,NA
+"YR19002","YUB","otolith_juvenile",2019,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"This study",0.708196479999901,NA
+"YR19003","YUB","otolith_juvenile",2019,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"This study",0.708156694459158,NA
+"YR19004","YUB","otolith_juvenile",2019,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"This study",0.707812060423963,NA
+"YR19005","YUB","otolith_juvenile",2019,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"This study",0.70789698613881,NA
+"YR19006","YUB","otolith_juvenile",2019,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"This study",0.707767603107614,NA
+"YR19007","YUB","otolith_juvenile",2019,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"This study",0.707903001954371,NA
+"YR19008","YUB","otolith_juvenile",2019,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"This study",0.707854442188204,NA
+"YR19009","YUB","otolith_juvenile",2019,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"This study",0.707799140024934,NA
+"YR19010","YUB","otolith_juvenile",2019,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"This study",0.708019772117028,NA
+"YR20380","YUB","otolith_juvenile",2002,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.708258514,NA
+"YR20383","YUB","otolith_juvenile",2002,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.708347816,NA
+"YR20385","YUB","otolith_juvenile",2002,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.708244963,NA
+"YR20387","YUB","otolith_juvenile",2002,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7085160945,NA
+"YR20392","YUB","otolith_juvenile",2002,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.70803263,NA
+"YR20396","YUB","otolith_juvenile",2002,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.707558704745615,NA
+"YR20403","YUB","otolith_juvenile",2002,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7080921235,NA
+"YR20406","YUB","otolith_juvenile",2002,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7081627145,NA
+"YR20409","YUB","otolith_juvenile",2002,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.708427224,NA
+"YR20412","YUB","otolith_juvenile",2002,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.708602352,NA
+"YR20596","YUB","otolith_juvenile",2002,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.7082013825,NA
+"YR20600","YUB","otolith_juvenile",2002,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.708303948,NA
+"YR20603","YUB","otolith_juvenile",2002,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.70814714,NA
+"YR20607","YUB","otolith_juvenile",2002,"Yuba River","Yuba River","Yuba River",39.223357,-121.294154,"Sturrock et al (2015). PLoS ONE 10(5): e0122380.",0.708330714,NA
