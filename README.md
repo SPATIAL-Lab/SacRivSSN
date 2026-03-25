@@ -51,10 +51,10 @@ These include:
   Cleaned river-water sampling sites used for SSNM development. Duplicate site observations were summarized, yielding 106 sites used in `FD_sacriv_SSNM.R`.
 
 - **wr_sub.csv**  
-  Subset of endangered winter-run Chinook salmon otolith transects used in example assignments from Phillis et al. (2018).
+  Subset of endangered winter-run Chinook salmon otolith transects used in manuscript Figure 6 taken from [Phillis et al. (2018)](https://doi.org/10.1016/j.biocon.2017.10.023).
 
 - **WR_allSr_forR.csv**  
-  Full otolith transect dataset used in the assignment workflow examples.
+  Full endangered winter-run Chinook otolith transects dataset from [Phillis et al. (2018)](https://doi.org/10.1016/j.biocon.2017.10.023).
 
 - **srbiso_full.RDS**  
   Full Sacramento River Basin strontium river isoscape, including above-dam river environments.
