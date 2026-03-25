@@ -1,26 +1,26 @@
 # SacRivSSN
 
-Code and data products associated with the manuscript:  
-**A Dendritic Strontium River Isoscape for Fisheries Applications in the Sacramento River Basin, California, USA**
-Kyle G. Brennan1*, Anna M Sturrock2,3, Malte Willmes4, Kohma Arai3, Corey C. Phillis5, Peter K. Weber6, and Rachel C. Johnson 3,7
+Code and data products associated with the manuscript:
 
-1 University of Utah, Geology and Geophysics Department, 115 S. 1460 E., Rm 383 FASB
-Salt Lake City, UT 84112. kyle.brennan@utah.edu
+## A Dendritic Strontium River Isoscape for Fisheries Applications in the Sacramento River Basin, California, USA
 
-2 School of Life Sciences, University of Essex, Wivenhoe Park, Colchester CO4 3SQ, UK
+**Kyle G. Brennan¹\***, Anna M. Sturrock²˒³, Malte Willmes⁴, Kohma Arai³, Corey C. Phillis⁵, Peter K. Weber⁶, and Rachel C. Johnson³˒⁷  
 
-3 Center for Watershed Science, University of California Davis, Davis, CA USA 
+---
 
-4 Norwegian Institute for Nature Research, PO Box 5685, 7485, Torgarden, Trondheim, Norway
+### Affiliations
 
-5 The Metropolitan Water District of Southern California, Sacramento, CA USA
+¹ University of Utah, Department of Geology and Geophysics, Salt Lake City, UT, USA  
+² School of Life Sciences, University of Essex, Colchester, UK  
+³ Center for Watershed Science, University of California, Davis, CA, USA  
+⁴ Norwegian Institute for Nature Research, Trondheim, Norway  
+⁵ The Metropolitan Water District of Southern California, Sacramento, CA, USA  
+⁶ Lawrence Livermore National Laboratory, Livermore, CA, USA  
+⁷ Fisheries Ecology Division, Southwest Fisheries Science Center, NMFS, Santa Cruz, CA, USA  
 
-6 Lawrence Livermore National Laboratory, 7000 East Ave, Livermore, CA USA
+---
 
-7 Fisheries Ecology Division, Southwest Fisheries Science Center, National Marine Fisheries Service, Santa Cruz, CA, USA
-
-Corresponding Author * | kyle.brennan@utah.edu
-
+**\*Corresponding author:** kyle.brennan@utah.edu
 
 
 ---
