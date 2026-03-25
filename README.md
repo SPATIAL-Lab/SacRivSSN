@@ -32,9 +32,6 @@ Input data used by the scripts in this repository.
 Most full data products supporting the manuscript are archived at:  
 **DOI: https://doi.org/10.5281/zenodo.17595030**
 
-Additional archived data products are available at:  
-**DOI: https://doi.org/10.5281/zenodo.17545916**
-
 These include:
 
 - **sacriv32224.ssn.zip**  
