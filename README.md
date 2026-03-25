@@ -2,6 +2,26 @@
 
 Code and data products associated with the manuscript:  
 **A Dendritic Strontium River Isoscape for Fisheries Applications in the Sacramento River Basin, California, USA**
+Kyle G. Brennan1*, Anna M Sturrock2,3, Malte Willmes4, Kohma Arai3, Corey C. Phillis5, Peter K. Weber6, and Rachel C. Johnson 3,7
+
+1 University of Utah, Geology and Geophysics Department, 115 S. 1460 E., Rm 383 FASB
+Salt Lake City, UT 84112. kyle.brennan@utah.edu
+
+2 School of Life Sciences, University of Essex, Wivenhoe Park, Colchester CO4 3SQ, UK
+
+3 Center for Watershed Science, University of California Davis, Davis, CA USA 
+
+4 Norwegian Institute for Nature Research, PO Box 5685, 7485, Torgarden, Trondheim, Norway
+
+5 The Metropolitan Water District of Southern California, Sacramento, CA USA
+
+6 Lawrence Livermore National Laboratory, 7000 East Ave, Livermore, CA USA
+
+7 Fisheries Ecology Division, Southwest Fisheries Science Center, National Marine Fisheries Service, Santa Cruz, CA, USA
+
+Corresponding Author * | kyle.brennan@utah.edu
+
+
 
 ---
 
