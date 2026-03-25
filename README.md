@@ -11,16 +11,16 @@ Code and data products associated with the manuscript:
 R scripts used to reproduce the analyses and figures in the manuscript.
 
 - **FD_sacriv_SSNM.R**  
-  Builds the Sacramento River Basin spatial stream network model (SSNM) for river-water \(^{87}\text{Sr}/^{86}\text{Sr}\).
+  Builds the Sacramento River Basin spatial stream network model (SSNM) for river-water 87Sr/86Sr.
 
 - **FD_sacriv_wildkings.R**  
-  Generates probabilistic natal-origin and early-rearing habitat maps for example wild adult Chinook salmon using the Sacramento River \(^{87}\text{Sr}/^{86}\text{Sr}\) isoscape.
+  Generates probabilistic natal-origin and early-rearing habitat maps for example wild adult Chinook salmon using the Sacramento River 87Sr/86Sr isoscape.
 
 - **SacRiv_otolith_assignment_workflow.R**  
-  Interactive workflow for assigning otolith \(^{87}\text{Sr}/^{86}\text{Sr}\) transect intervals to the Sacramento River Basin dendritic isoscape.
+  Interactive workflow for assigning otolith 87Sr/86Sr transect intervals to the Sacramento River Basin dendritic isoscape.
 
 - **FD_sacriv_fig2_3_4.R**  
-  Reproduces the workflows for manuscript Figures 2, 3, and 4, including \(^{87}\text{Sr}/^{86}\text{Sr}\) diversity histograms and uncertainty-informed isotopic suite maps.
+  Reproduces the workflows for manuscript Figures 2, 3, and 4, including 87Sr/86Sr diversity histograms and uncertainty-informed isotopic suite maps.
 
 ---
 
@@ -45,7 +45,7 @@ These include:
 #### Data included directly in this GitHub repository
 
 - **intersected_lines.RDS**  
-  Sacramento River \(^{87}\text{Sr}/^{86}\text{Sr}\) isoscape stream-line object for present-day assignments.
+  Sacramento River 87Sr/86Sr isoscape stream-line object for present-day assignments.
 
 - **otolith_ref_data_sac_hatcheries(all).csv**  
   Hatchery reference otolith dataset used to estimate within-population / within-site error for Bayesian probabilistic assignments.
@@ -69,7 +69,7 @@ These include:
 A typical workflow is:
 
 1. Run **FD_sacriv_SSNM.R**  
-   to build or inspect the Sacramento River \(^{87}\text{Sr}/^{86}\text{Sr}\) spatial stream network model.
+   to build or inspect the Sacramento River 87Sr/86Sr spatial stream network model.
 
 2. Run **FD_sacriv_fig2_3_4.R**  
    to reproduce manuscript Figures 2, 3, and 4.
