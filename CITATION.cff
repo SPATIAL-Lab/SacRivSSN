@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "SacRivSSN: Spatial Stream Network Models for Sacramento River Sr Isoscapes"
+message: "If you use this code, please cite it as below."
+type: software
+authors:
+  - family-names: Brennan
+    given-names: Kyle G.
+  - family-names: Sturrock
+    given-names: Anna M.
+  - family-names: Willmes
+    given-names: Malte
+  - family-names: Phillis
+    given-names: Corey C.
+  - family-names: Johnson
+    given-names: Rachel C.
+repository-code: "https://github.com/SPATIAL-Lab/SacRivSSN"
+url: "https://github.com/SPATIAL-Lab/SacRivSSN"
+abstract: "Code for building spatial stream network models and dendritic strontium isoscapes for the Sacramento River basin."
+version: "1.0.0"
+date-released: 2026-04-23
+license: MIT
